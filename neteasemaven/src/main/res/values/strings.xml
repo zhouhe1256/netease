@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">neteaseMaven</string>
+    <string name="image_view_tag">ImageViewAdapter</string>
+</resources>
